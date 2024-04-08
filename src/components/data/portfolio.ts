@@ -1,20 +1,21 @@
+/* eslint-disable sonarjs/no-duplicate-string */
 export default [
   {
     title: "Terminal Website",
-    imgUrl: "",
+    imgUrl: "/assets/terminal-image.png",
     stack: ["HTML", "CSS", "JavaScript"],
-    link: "https://fkcdoes.com",
+    link: "https://simonsynnes.com",
   },
   {
     title: "Developer Portfolio",
-    imgUrl: "",
+    imgUrl: "/assets/terminal-image.png",
     stack: ["React", "Tailwind", "Vite"],
-    link: "https://thehackershideout.com",
+    link: "https://simonsynnes.com",
   },
   {
-    title: "AI Nerf Gun",
-    imgUrl: "",
-    stack: ["Python", "C++", "Robotics"],
-    link: "https://youtube.com/",
+    title: "Test title",
+    imgUrl: "/assets/terminal-image.png",
+    stack: ["Python", "C#", "Javascript"],
+    link: "https://simonsynnes.com",
   },
 ];
