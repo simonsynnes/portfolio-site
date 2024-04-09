@@ -1,4 +1,7 @@
 /* eslint-disable max-len */
+
+import Title from "./Title";
+
 /**
  * Contact
  */
@@ -10,6 +13,7 @@ const Contact = () => (
       className="flex flex-col w-full md:w-7/12"
       method="POST"
     >
+      <Title>Contact</Title>
       <input
         className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
         name="name"

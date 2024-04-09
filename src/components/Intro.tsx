@@ -4,7 +4,9 @@
  */
 const Intro = () => (
   <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-    <h1 className="text-4x1 md:text-7x1 mb-1 md:mb-3 font-bold">Simon</h1>
+    <h1 className="text-4x1 md:text-7x1 mb-1 md:mb-3 font-bold dark:text-white">
+      Simon
+    </h1>
     <p className="text-base md:text-x1 mb-3 font-medium">
       Software Engineer & Web Developer{" "}
     </p>
