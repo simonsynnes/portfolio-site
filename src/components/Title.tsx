@@ -1,6 +1,6 @@
 /* eslint-disable max-len */
 
-import { TitleProps } from "./data/titleInterface";
+import { TitleProps } from "./interfaces/titleInterface";
 
 /**
  * Title

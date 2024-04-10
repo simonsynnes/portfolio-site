@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { PortfolioProps } from "./data/portfolioInterface";
+import { PortfolioProps } from "./interfaces/portfolioInterface";
 /**
  * Portfolio Item
  */

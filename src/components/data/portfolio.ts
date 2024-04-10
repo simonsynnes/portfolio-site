@@ -13,7 +13,7 @@ export default [
     link: "https://simonsynnes.com",
   },
   {
-    title: "Test title",
+    title: "Test Program",
     imgUrl: "/assets/terminal-image.png",
     stack: ["Python", "C#", "Javascript"],
     link: "https://simonsynnes.com",

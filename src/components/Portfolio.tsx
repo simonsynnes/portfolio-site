@@ -1,7 +1,7 @@
 import React from "react";
 
 import portfolio from "./data/portfolio";
-import { PortfolioProps } from "./data/portfolioInterface";
+import { PortfolioProps } from "./interfaces/portfolioInterface";
 import PortfolioItem from "./PortfolioItem";
 /**
  * Portfolio

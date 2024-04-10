@@ -1,5 +1,5 @@
 /* eslint-disable max-len */
-import { TimelineProps } from "./data/timelineInterface";
+import { TimelineProps } from "./interfaces/timelineInterface";
 /**
  * Timeline item
  */
