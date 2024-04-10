@@ -3,8 +3,10 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
-Portfolio website built with **React**, **TypeScript** and **Vite**
+Portfolio website built with **React**, **TypeScript** and **Vite**.
+
 Contains a simple list of projects I have worked on, a education/work timeline and a contact form.
+
 Dark mode functionality has been added.
 
 ## Showcase
@@ -14,7 +16,6 @@ Dark mode functionality has been added.
 
 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
 ## How to run site
 
